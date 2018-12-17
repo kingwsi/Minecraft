@@ -1,0 +1,8 @@
+name: DragonCmd
+main: com.demo.mc.Main
+author: wangshu
+version: 1.0.0
+commands:
+  givemeChallenge:
+    usage: /givemeChallenge
+    aliases: [gc]
